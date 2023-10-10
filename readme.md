@@ -1,43 +1,55 @@
-﻿Bedtime Buddy   User Manual  Fabian Greimel Samuel Kaloud 
+﻿# Bedtime Buddy User Manual
+### Fabian Greimel & Samuel Kaloud
 
-Bedtime Buddy User Manual 
+---
 
-Introducing Bedtime Buddy, the last alarm clock you will ever need. We at Bedtime Buddy do not just provide you with an alarm clock, but focus on a rather holistic approach giving you insight into your own sleep quality. We do this by a noise counter which can be interpreted as the REM sleep phase. Furthermore, we provide you with your individualized sleeping times and statistics for you to detect problems and determine the perfect sleep schedule. Bedtime Buddy also features an option for you to get up with the sunset. 
+## Introduction
 
-Bedtime Buddy   User Manual  Fabian Greimel Samuel Kaloud 
+Welcome to **Bedtime Buddy**, the ultimate alarm clock solution. Rather than being just another alarm clock, Bedtime Buddy offers a holistic approach, providing insights into your sleep quality. We achieve this with the help of a noise counter, which can be indicative of the REM sleep phase. Not only that, but you'll also receive personalized sleep times and statistics, enabling you to identify any issues and optimize your sleep schedule. And for those who love to rise with the sun, we've got an option just for you!
 
-**Getting started:**  
+---
 
-![](Aspose.Words.cc71e27f-a1ab-4995-b6cd-435f76cc74fe.001.png) ![](Aspose.Words.cc71e27f-a1ab-4995-b6cd-435f76cc74fe.002.png)
+## Getting Started
+![Setup Image 1](demo_images/Aspose.Words.cc71e27f-a1ab-4995-b6cd-435f76cc74fe.001.png) ![Setup Image 2](demo_images/Aspose.Words.cc71e27f-a1ab-4995-b6cd-435f76cc74fe.002.png)
 
-*2:  Before  using  the  App  please  accept  the permissions we need for the noise counter and to provide our services to you. Use the bottom nav-bar to navigate within the app.* 
+- Ensure you accept the necessary permissions for the noise counter and our other services.
+- Utilize the bottom navigation bar to move around the app.
 
-**Setting the alarm:** 
+---
 
-![](Aspose.Words.cc71e27f-a1ab-4995-b6cd-435f76cc74fe.003.png) ![](Aspose.Words.cc71e27f-a1ab-4995-b6cd-435f76cc74fe.004.png)
+## Setting The Alarm
+![Alarm Image 1](demo_images/Aspose.Words.cc71e27f-a1ab-4995-b6cd-435f76cc74fe.003.png) ![Alarm Image 2](demo_images/Aspose.Words.cc71e27f-a1ab-4995-b6cd-435f76cc74fe.004.png)
 
-*4: The time shown when opening the app is your personalized  wake  up  time if you  went  to bed right away. To change this just press the change button. If you want to get up at sunrise just press the button, you will be woken up at the preset light threshold.* 
+- The default time displayed is your ideal wake-up time if you were to sleep immediately.
+- Adjust this time using the change button.
+- If you wish to rise with the sun, simply activate the relevant option. This works based on a preset light threshold.
 
-**Setting up your profile:** 
+---
 
-![](Aspose.Words.cc71e27f-a1ab-4995-b6cd-435f76cc74fe.005.png) ![](Aspose.Words.cc71e27f-a1ab-4995-b6cd-435f76cc74fe.006.png) ![](Aspose.Words.cc71e27f-a1ab-4995-b6cd-435f76cc74fe.007.png)
+## Profile Setup
+![Profile Image 1](demo_images/Aspose.Words.cc71e27f-a1ab-4995-b6cd-435f76cc74fe.005.png) ![Profile Image 2](demo_images/Aspose.Words.cc71e27f-a1ab-4995-b6cd-435f76cc74fe.006.png) ![Profile Image 3](demo_images/Aspose.Words.cc71e27f-a1ab-4995-b6cd-435f76cc74fe.007.png)
 
-*1: We advise you to fill out your profile information first. This will help us provide your with your personalized wake up time. Furthermore, you can set the light threshold in this menu (for using the wake up at sunrise option).* 
+- We recommend starting with your profile setup. This aids in generating a personalized wake-up time.
+- This section also allows you to set the light threshold for the sunrise wake-up feature.
 
-**During the night:** 
+---
 
-![](Aspose.Words.cc71e27f-a1ab-4995-b6cd-435f76cc74fe.008.png) ![](Aspose.Words.cc71e27f-a1ab-4995-b6cd-435f76cc74fe.009.png)
+## Night Features
+![Night Image 1](demo_images/Aspose.Words.cc71e27f-a1ab-4995-b6cd-435f76cc74fe.008.png) ![Night Image 2](demo_images/Aspose.Words.cc71e27f-a1ab-4995-b6cd-435f76cc74fe.009.png)
 
-*3: When waking up during the night you are able to write down your thoughts and dreams which you don't want to forget. Additionally, your wake up time and noise count is displayed.* 
+- In case you wake up during the night, there's a feature to jot down any immediate thoughts or dreams.
+- You can also view your wake-up time and the current noise count.
 
-Bedtime Buddy   User Manual  Fabian Greimel Samuel Kaloud 
+---
 
-**Statistics:  Getting up:** 
+## Statistics and Waking Up
+![Stats Image 1](demo_images/Aspose.Words.cc71e27f-a1ab-4995-b6cd-435f76cc74fe.010.png) ![Stats Image 2](demo_images/Aspose.Words.cc71e27f-a1ab-4995-b6cd-435f76cc74fe.011.png) ![Stats Image 3](demo_images/Aspose.Words.cc71e27f-a1ab-4995-b6cd-435f76cc74fe.012.png) ![Stats Image 4](demo_images/Aspose.Words.cc71e27f-a1ab-4995-b6cd-435f76cc74fe.013.png)
 
-![](Aspose.Words.cc71e27f-a1ab-4995-b6cd-435f76cc74fe.010.png) ![](Aspose.Words.cc71e27f-a1ab-4995-b6cd-435f76cc74fe.011.png) ![](Aspose.Words.cc71e27f-a1ab-4995-b6cd-435f76cc74fe.012.png) ![](Aspose.Words.cc71e27f-a1ab-4995-b6cd-435f76cc74fe.013.png)
+- The statistics page gives you a month-long view of your sleep data. Toggle between noise count and quality using the provided buttons.
+- For detailed notes and exact numbers, use the list button.
+- When it's time to wake up, our carefully selected alarm tone will gently rouse you. To turn it off, press the "Stop Alarm" button.
+- Lastly, rate your sleep quality on a scale of 1-5. This data will also be visible on the statistics page.
 
-Bedtime Buddy   User Manual  Fabian Greimel Samuel Kaloud 
+---
 
-*6: On the statistics page you will be able to see you sleeping statistics over the last month. You can use the buttons to toggle between noise count and quality. To see the exact numbers and notes you took while sleeping press the list button.* 
-
-*5: If light is detected or the alarm time is reached our finely chosen alarm will wake you up. To stop it press the Stop Alarm button. Next, you will be asked to rate your sleep on a scale from 1-5, these ratings will also be shown on the statistics page.* 
+Thank you for choosing **Bedtime Buddy**! Sleep well!
