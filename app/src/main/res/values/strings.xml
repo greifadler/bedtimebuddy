@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">Bedtime Buddy</string>
+    <string name="title_home">Home</string>
+    <string name="title_statistics">Statistics</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_activity_alarming" translatable="false">AlarmingActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label" translatable="false">First Fragment</string>
+    <string name="second_fragment_label" translatable="false">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment" translatable="false">Hello second fragment. Arg: %1$s</string>
+    <string name="id_alarm" translatable="false">id</string>
+    <string name="senor_label">Sensor value: </string>
+    <string name="label_noise">Noise</string>
+    <string name="noise_count_label">Noise Count:</string>
+    <string name="wake_up_time_label">Wake Up Time:</string>
+    <string name="edit">Edit</string>
+    <string name="sleep">Sleep</string>
+    <string name="changealarm">Change</string>
+    <string name="alarm">Alarm:</string>
+    <string name="name">Name:</string>
+    <string name="light_treshold">Light treshold (LUX):</string>
+    <string name="age">Age:</string>
+    <string name="sex">Sex:</string>
+    <string name="edit_light">Edit</string>
+    <string name="alarming">Alarm!</string>
+    <string name="stop_alarm">Stop Alarm</string>
+    <string name="dot" translatable="false">...</string>
+    <string name="save">Save</string>
+    <string name="your_notes_while_sleeping">Your notes while sleeping</string>
+    <string name="notes">Notes:</string>
+    <string name="quality_stats">Quality</string>
+    <string name="stats_as_list">List</string>
+    <string name="noise_text">Noise</string>
+    <string name="male" translatable="false">male</string>
+    <string name="female" translatable="false">female</string>
+    <string name="other">other</string>
+    <string name="save_changes">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="name_hint">Name</string>
+    <string name="age_hint">Age</string>
+    <string name="start">Start</string>
+    <string name="end">End</string>
+    <string name="noise_count">Noise Count</string>
+    <string name="quality">Quality</string>
+    <string name="notes1">Notes</string>
+    <string name="accedp_permission">Please acceept Permissions!</string>
+    <string name="alarme_already_set">Alarm already set!</string>
+    <string name="alarm_set">Alarm set!</string>
+    <string name="unable_to_set_alarm">Unable to set alarm!</string>
+    <string name="sleep_list">Sleep List</string>
+    <string name="ok">OK</string>
+    <string name="alarm_back_pressed_text">Unable to get back!</string>
+    <string name="home_while_sleeping_on_back_pressed_text">Unable to get back while alarm is set!</string>
+    <string name="rate_your_sleep_title">Rate your sleep</string>
+    <string name="please_wake_up">Please wake up!</string>
+    <string name="title_choose_light_treshold">Choose light threshold</string>
+    <string name="cancle">Cancel</string>
+    <string name="get_up_at_sunrise">get up at sunrise</string>
+    <string name="switch_lang">Switch language / Sprache wechseln</string>
+    <string name="noise">Noise</string>
+</resources>
